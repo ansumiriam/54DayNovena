@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { MysteryType } from '../data/prayers';
+import type { MysteryType } from '../data/prayers';
 
 export interface NovenaState {
     currentDay: number; // 1-54
