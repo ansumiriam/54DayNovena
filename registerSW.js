@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/54DayNovena/sw.js', { scope: '/54DayNovena/' })})}
