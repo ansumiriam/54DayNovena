@@ -1,0 +1,22 @@
+{
+    "name": "54 Day Novena",
+    "short_name": "Novena",
+    "description": "A prayer companion for the 54-day Rosary Novena",
+    "start_url": "/54DayNovena/",
+    "scope": "/54DayNovena/",
+    "display": "standalone",
+    "theme_color": "#0f172a",
+    "background_color": "#0f172a",
+    "icons": [
+        {
+            "src": "pwa-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "pwa-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
