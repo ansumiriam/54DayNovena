@@ -1,1 +1,0 @@
-import{H as e,P as t,R as n,V as r}from"./index-CaR9bLYn.js";var i=n(`check`,[[`path`,{d:`M20 6 9 17l-5-5`,key:`1gmf2c`}]]),a=e(r(),1);t();var o=a.createContext(void 0);function s(e){let t=a.useContext(o);return e||t||`ltr`}function c(e,[t,n]){return Math.min(n,Math.max(t,e))}export{s as n,i as r,c as t};
